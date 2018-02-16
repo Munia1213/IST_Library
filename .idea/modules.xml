@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\android_ project\e-Library-master\e-Library-master\IST LIBRARY.iml" filepath="D:\android_ project\e-Library-master\e-Library-master\IST LIBRARY.iml" />
+      <module fileurl="file://D:\android_ project\e-Library-master\e-Library-master\app\app.iml" filepath="D:\android_ project\e-Library-master\e-Library-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-Library-master.iml" filepath="$PROJECT_DIR$/e-Library-master.iml" />
+    </modules>
+  </component>
+</project>
